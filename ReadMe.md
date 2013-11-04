@@ -1,0 +1,1 @@
+# weechat-dots for PairUp
